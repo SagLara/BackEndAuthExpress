@@ -1,6 +1,10 @@
 # dependencias
 /node_modules
 
+# variables de entorno
+.env
+.env.example 
+
 # compiled output
 /dist
 /tmp
